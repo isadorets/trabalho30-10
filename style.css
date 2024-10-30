@@ -1,0 +1,17 @@
+body{background-color: rgb(236, 151, 71);
+}
+h1 {text-align: center;
+    border-style: ridge;
+    border-color: rgb(185, 10, 10);
+    border-width: 11px;
+    } 
+    img {
+        margin-left: 40%;
+    }
+    p {text-align: center;
+        color: darkred;
+        border-style: groove;
+    border-color: rgb(185, 10, 10);
+    border-width: 11px;
+    }
+    
